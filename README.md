@@ -44,7 +44,7 @@ Default positive events are defined in `pipeline/cli.py` / `pipeline/data.py`:
 
 If your dataset uses different folder names, pass them via `--positive_events`.
 
-## Training (recommended flow)
+## Training
 
 Training is a two-step process:
 
