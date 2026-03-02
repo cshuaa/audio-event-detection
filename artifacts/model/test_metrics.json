@@ -1,0 +1,11 @@
+{
+  "loss": 0.02426087289281628,
+  "accuracy": 0.9887218045112782,
+  "distress_precision": 0.985,
+  "distress_recall": 0.985,
+  "false_negative_rate": 0.015,
+  "tp": 197,
+  "fp": 3,
+  "tn": 329,
+  "fn": 3
+}

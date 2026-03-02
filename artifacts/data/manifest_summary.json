@@ -1,0 +1,26 @@
+{
+  "total_rows": 9299,
+  "reference_rows": 5314,
+  "generated_rows": 5314,
+  "train_rows": 7970,
+  "val_rows": 797,
+  "test_rows": 532,
+  "positive_events": [
+    "asking help",
+    "screaming",
+    "crying sobbing wail",
+    "whispering",
+    "cough"
+  ],
+  "train_config": {
+    "batch_size": 32,
+    "epochs": 20,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "val_split": 0.15,
+    "test_split": 0.1,
+    "num_workers": 2,
+    "seed": 42,
+    "distress_weight": 2.0
+  }
+}
